@@ -29,8 +29,8 @@ Download the binaries from the [release page](https://github.com/GodotExplorer/E
   - ``git clone git@github.com:godotengine/godot.git``  or
   - ``git clone https://github.com/godotengine/godot.git``
 - Clone this module and put it into `godot/modules/javascript`: 
-	- ``git clone git@github.com:Geequlim/ECMAScript.git godot/modules/javascript``  or
-	- ``git clone https://github.com/Geequlim/ECMAScript.git godot/modules/javascript``
+	- ``git clone git@github.com:rasyidkaromi/Godot-Typescript.git godot/modules/javascript``  or
+	- ``git clone https://github.com/rasyidkaromi/Godot-Typescript.git godot/modules/javascript``
 - [Recompile the godot engine](https://docs.godotengine.org/en/4.1/development/compiling/index.html) 
   - Use ``scons`` with those additional options ``warnings=extra werror=yes module_text_server_fb_enabled=yes`` to show all potential errors
 
